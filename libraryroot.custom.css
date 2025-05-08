@@ -1,0 +1,45 @@
+/**
+ * @description This file styles all main steam windows
+ * [Steam, Settings, Properties, Popups, Dialogs, ...]
+ */
+
+ 
+/*顶栏*/
+._39oUCO1OuizVPwcnnv88no {	
+	height: 45px;
+}
+
+._39oUCO1OuizVPwcnnv88no div {
+	font-size: 14px;
+}
+
+/*第二栏第二栏*/
+._7AlhCx3XGzBeIrQaCneUD._1gqEjB5QsKT_NftD1dEsdZ:not(._2cO0HdvLEGAdhosLekWsmo) ._19axKcqYRuaJ8vdYKYmtTQ{
+	color: #F1ED62 !important;
+}
+
+._7AlhCx3XGzBeIrQaCneUD._1gqEjB5QsKT_NftD1dEsdZ:not(._2cO0HdvLEGAdhosLekWsmo) ._19axKcqYRuaJ8vdYKYmtTQ::after {
+	background: #F1ED62;
+}
+
+/*顶栏右上角*/
+._39oUCO1OuizVPwcnnv88no ._1-9sir4j_KQiMqdkZjQN0u {
+
+}
+
+._3h-QRJGxnVOIExtHD1R0f2 {
+	border-radius: 100%;
+}
+
+.nibodjvvrm86uCfnnAn4g ._3xUpb5DWXPFNcHHIcv-9pe.right, .nibodjvvrm86uCfnnAn4g ._3xUpb5DWXPFNcHHIcv-9pe.bottom{
+	display: none !important;
+}
+
+._3yD46y5pd3zOGR7CzKs0mC.online {
+	background: transparent !important;
+	color:#F1ED62 !important;
+}
+
+._3yD46y5pd3zOGR7CzKs0mC ._3x51wbt5DYyWC8JKwQ51ir{
+	width: 20px;
+}

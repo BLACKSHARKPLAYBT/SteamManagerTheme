@@ -1,0 +1,17 @@
+{
+    "name": "SteamManager",
+    "author": "Textline",
+    "description": "Yes,it's Steam Game Manager Theme.",
+	    "github": {
+        "owner": "blacksharkplaybt",
+        "repo_name": "SteamManagerTheme"
+    },
+    "tags": [
+        "Redesign",
+        "Refresh",
+		"Fun"
+    ],
+    "version": "1.0.0",
+    "Steam-WebKit": "webkit.css",
+    "UseDefaultPatches": true
+}
